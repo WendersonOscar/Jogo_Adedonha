@@ -1,5 +1,5 @@
 # Jogo_Adedonha
-Iniciante... 
+Projeto básico, adedonha Simples.
 <h4>
   Em Construção
 <h4>
